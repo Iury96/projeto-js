@@ -133,23 +133,3 @@ transition: 0.3s;
 
     display: none;
 }
-
-
-
-
-
-
-
-
-
-
-.attribution {
-    font-size: 14px;
-    text-align: center;
-    color: #fff;
-    margin-top: 2rem;
-}
-
-.attribution a {
-    color: hsl(228, 45%, 44%);
-}
